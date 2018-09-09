@@ -9,5 +9,5 @@ def count_char(s):
 
 if __name__ == '__main__':
     count_char("I am living in a beautiful world")
-
+    count_char("madam")
 
