@@ -5,4 +5,5 @@ def rev_string(s):
 
 if __name__ == "__main__":
     print(rev_string("panama"))
+    print(rev_string("prasanna"))
 
