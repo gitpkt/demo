@@ -8,6 +8,7 @@ def count_char(s):
 
 
 if __name__ == '__main__':
+    print("The number of character in the strings are: "
     count_char("I am living in a beautiful world")
     count_char("madam")
 
